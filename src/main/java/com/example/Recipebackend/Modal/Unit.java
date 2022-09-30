@@ -5,7 +5,7 @@ public enum Unit {
     TL,
     SHOT,
     PIECE,
-    PRIZE
-
+    PRIZE,
+    GRAM
 }
 
